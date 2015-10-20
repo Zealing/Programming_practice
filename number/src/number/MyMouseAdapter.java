@@ -4,12 +4,14 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.Scanner;
 
 public class MyMouseAdapter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		new MyFrame("drawing..");
+		Scanner s = new Scanner(System.in);
 	}
 }
 
